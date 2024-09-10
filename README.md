@@ -1,2 +1,2 @@
-# SMGC
-the code of SMGC
+# CGFMVC
+the code of CGFMVC
